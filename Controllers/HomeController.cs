@@ -1,6 +1,7 @@
 ﻿using ClinicMVCProject.DAL;
 using ClinicMVCProject.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ClinicMVCProject.Controllers;
 
@@ -13,7 +14,7 @@ public class HomeController : Controller
     }
     public IActionResult Index()
     {
-        List<Doctor> Doctors = _context.Doctors.ToList();
+        List<Doctor> Doctors = _context.Doctors.Include(d=>d.Department).ToList();
         return View(Doctors);
     }
 }
