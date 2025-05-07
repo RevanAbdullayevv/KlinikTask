@@ -1,6 +1,66 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\header-page.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\header-page.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\png-clipart-2pac-2pac.png",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\png-clipart-2pac-2pac.png"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\UploadImages\\Doctors\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\UploadImages\\Doctors\\img\\testimonial-3.jpg"
+    },
+    {
       "Id": "C:\\Users\\rabdu\\source\\repos\\ClinicMVCProject\\ClinicMVCProject\\wwwroot\\admin\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\admin\\css\\sb-admin-2.css"
     },

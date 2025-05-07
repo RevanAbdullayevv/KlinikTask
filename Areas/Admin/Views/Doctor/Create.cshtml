@@ -1,5 +1,20 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model Doctor;
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUpload" class="form-label"></label>
+        <input class="form-control" asp-for="ImageUpload" id="formFile">
+        <span asp-validation-for="ImageUpload" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DepartmentId"></label>
+        <input asp-for="DepartmentId" class="form-control">
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
